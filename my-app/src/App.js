@@ -1,5 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import React from "react";
+import Home from './components/Home';
+import About from './components/About';
+import SearchBar from './components/SearchBar';
+import AddRecipe from './components/Recipe Container/AddRecipe';
+import RecipeCard from './components/Recipe Container/RecipeCard';
+
 
 function App() {
   return (
