@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "ATCK Recipes Place is a recipe sharing site where you can find the latest recipe trends from across the internet and add your own favorite recipes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "react-bootstrap": "^2.5.0",
+    "react-scripts": "^5.0.1"
+  }
+}
